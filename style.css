@@ -119,3 +119,7 @@ input {
 .book hr {
     margin-bottom: 10px;
 }
+
+#junk {
+    color: white;
+}
